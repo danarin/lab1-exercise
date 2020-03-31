@@ -1,6 +1,6 @@
 ## What I hope to learn in INFO 201
 
-Hi my name is **Dana Rin**, and I'm a *first-year* student.
+Hello! My name is **Dana Rin**, and I'm a *first-year* student.
 
 ### Here are a few things I hope to learn in this course:
 
